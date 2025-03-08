@@ -1,5 +1,5 @@
 streamlit==1.43.1
 opencv-python==4.9.0.80
-numpy==2.1.0
+numpy==1.26.4  # Downgraded to a version compatible with pywavelets
 pillow==10.4.0
 pywavelets==1.5.0
